@@ -2,6 +2,8 @@
 
 A Flutter bakery app that displays a menu of baked goods in a grid layout. Users can browse products and tap any item to view its details.
 
+![demo](./bakery-screenshot.gif)
+
 ## Features
 - **Product grid** — all bakery items displayed in a responsive 2-column grid
 - **Product cards** — each card shows the item's image, name, and price
